@@ -1,0 +1,85 @@
+a:focus, a:hover {
+    text-decoration: none;
+    color: #747373;
+  }
+.myLink{
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+    color: rgb(206, 23, 23);
+  }
+.masthead2 {
+    display: table;
+    width: 100%;
+    height: 100%;
+    padding: 200px 0;
+    text-align: center;
+    color: white;
+    background: url("../img/0357aa4bf306480b886547d6f4f94c05.jpg") no-repeat bottom center scroll;
+    background-color: black;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .masthead2 .intro-body {
+    display: table-cell;
+    vertical-align: middle;
+  }
+  
+  .masthead2 .intro-body .brand-heading {
+    font-size: 50px;
+  }
+  
+  .masthead2 .intro-body .intro-text {
+    font-size: 18px;
+  }
+  /* #about{
+    transition:height 2s;
+    transition-timing-function: ease-in-out;
+  } */
+  .contact-section {
+    color: white;
+    background: url("http://thresholdcommunications.com/wp-content/uploads/2015/07/rendering-shapes-visualization-cubes-abstraction-figures-black-background.jpg") no-repeat center center scroll;
+    background-color: black;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+ /* footer {
+    color: white;
+    background: url("http://thresholdcommunications.com/wp-content/uploads/2015/07/rendering-shapes-visualization-cubes-abstraction-figures-black-background.jpg") no-repeat center center scroll;
+    background-color: black;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  } */
+  #tumblrSearch{
+    color: white;
+    background-color: #861313;
+     
+  }
+  .input-medium search-query{
+      height: 30px;
+      border-top-width: 0px;
+      border-bottom-width: 3px;
+  }
+  .tags-section {
+      height:1080px;
+      
+  }
+
+.video-section {
+    height:1080px;
+    padding-top:120px;
+}
+#tumblrS{
+    margin-top: 0px;
+}
+.btn{
+    color: white;
+    background-color: #861313;
+     
+  }
